@@ -1,6 +1,6 @@
 # Curso de HTML5 e CSS3 parte parte 2: posicionamento, listas e navegação 
 
-Projeto realizado na Alura, Fevereiro 2022
+Projeto realizado na Alura, Fevereiro 2023
 
 ❐ [Acesso ao curso](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao)
 
